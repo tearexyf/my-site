@@ -1,0 +1,11 @@
+
+.gallery__photoset{
+    display: none;
+}
+.gallery__photoset.active{
+    display: block;
+}
+.photoset-container{
+    align-content: center;
+    align-items: center;
+}

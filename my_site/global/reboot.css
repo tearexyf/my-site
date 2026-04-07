@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Indie Flower", cursive;
+  color: #242424;
+  margin: 0;
+  padding: 0;
+  background-color: #d8d8d8;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  object-fit: cover;
+  height: auto;
+}
+
+a {
+  color: #242424;
+  text-decoration: none;
+}
